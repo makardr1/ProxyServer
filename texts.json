@@ -1,0 +1,8 @@
+{
+  "name": "ProxyReminder",
+  "hello_message": "Добро пожаловать! Здесь вы можете оплатить ваши proxy ✈",
+  "help_message": "Напишите нам и мы поможем!",
+  "payment_massage": "Введите сумму оплаты",
+  "instruction_walletpay": "https://telegra.ph/Instrukciya-po-oplate-v-Wallet-11-19",
+  "history_user_massage": "Ваша история платежей"
+}
